@@ -1,0 +1,96 @@
+[
+    
+    {
+        "id" : 1,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-001",
+    "stock": 4
+    },
+
+    {
+        "id" : 2,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-002",
+    "stock": 4
+    },
+
+    {
+        "id" : 3,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-003",
+    "stock": 4
+    },
+    {
+        "id" : 4,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-004",
+    "stock": 4
+    },
+    
+    {
+        "id" : 5,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-006",
+    "stock": 4
+    },
+    {
+        "id" : 6,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-007",
+    "stock": 4
+    },
+    {
+        "id" : 7,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-008",
+    "stock": 4
+    },
+    {
+        "id" : 8,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-009",
+    "stock": 4
+    },
+    {
+        "id" : 9,
+        "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-010",
+    "stock": 4
+    },
+    {
+    "id" : 10,
+    "title": "Camiseta de G2 Esports",
+    "description": "Camiseta de League of Legends 2024",
+    "price": "62",
+    "thumbnail": "ruta/Camiseta-G2-01.jpg",
+    "code": "G2-001",
+    "stock": 4
+    },
+]
